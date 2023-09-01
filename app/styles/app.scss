@@ -1,0 +1,14 @@
+@import "ember-uikit";
+
+ul.button-nav {
+  @extend .uk-button-group;
+
+  li a {
+    @extend .uk-button;
+    @extend .uk-button-small;
+  }
+}
+
+img {
+  max-width: 380px;
+}
