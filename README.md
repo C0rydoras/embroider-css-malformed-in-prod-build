@@ -4,11 +4,10 @@ Minimal reproduction of css optimizations malforming styles in production builds
 
 ### Dev build
 
-![image](https://github.com/C0rydoras/embroider-css-malformed-in-prod-build/assets/110528300/ed428f2f-e4a2-4095-87a1-a139fcb6d362)
+![image](https://github.com/C0rydoras/embroider-css-malformed-in-prod-build/assets/110528300/6bd443f7-f7f3-484b-b1a9-37b0ba5b8ba4)
 
 ### Prod build
-
-![image](https://github.com/C0rydoras/embroider-css-malformed-in-prod-build/assets/110528300/c44ad2c2-55ca-4918-a942-8c0c1f19ef9f)
+![image](https://github.com/C0rydoras/embroider-css-malformed-in-prod-build/assets/110528300/d39fb159-0fbc-4cc9-a5be-6e42db6987e1)
 
 ```bash
 yarn start # starts live server
